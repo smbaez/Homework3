@@ -1,1 +1,16 @@
-{"attributes":{"bearing":309.0,"current_status":"IN_TRANSIT_TO","current_stop_sequence":19,"direction_id":0,"label":"1775","latitude":42.366085052490234,"longitude":-71.10475158691406,"speed":null,"updated_at":"2019-03-05T21:06:34-05:00"},"id":"y1775","links":{"self":"/vehicles/y1775"},"relationships":{"route":{"data":{"id":"1","type":"route"}},"stop":{"data":{"id":"102","type":"stop"}},"trip":{"data":{"id":"39366496","type":"trip"}}},"type":"vehicle"}
+{"attributes":
+ {"bearing":309.0,
+  "current_status":"IN_TRANSIT_TO",
+  "current_stop_sequence":19,
+  "direction_id":0,
+  "label":"1775",
+  "latitude":42.366085052490234,
+  "longitude":-71.10475158691406,
+  "speed":null,
+  "updated_at":"2019-03-05T21:06:34-05:00"},
+ "id":"y1775",
+ "links":{"self":"/vehicles/y1775"},
+ "relationships":{"route":{"data":{"id":"1","type":"route"}},
+                  "stop":{"data":{"id":"102","type":"stop"}},
+                  "trip":{"data":{"id":"39366496","type":"trip"}}},
+ "type":"vehicle"}
